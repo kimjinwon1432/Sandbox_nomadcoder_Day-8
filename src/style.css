@@ -1,0 +1,10 @@
+body {
+  font-family: Georgia, serif;
+}
+.inputdiv {
+  padding-bottom: 3%;
+  display: inline-block;
+}
+.inputdiv > label {
+  font-weight: bold;
+}
